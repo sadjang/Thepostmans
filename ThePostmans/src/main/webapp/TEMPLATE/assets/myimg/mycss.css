@@ -1,0 +1,17 @@
+
+.imf,
+.mimf,
+.himf
+{
+    height: 22px;
+    width: 22px;       
+    font-size: 24px;
+
+
+}
+.mimf{
+    
+    position: relative;
+    display: inline-block;
+    margin-right: 1em;
+}
